@@ -1,0 +1,9 @@
+{
+  "name": "cwp-10",
+  "author": "dasha",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.3",
+    "express": "^4.16.3"
+  }
+}

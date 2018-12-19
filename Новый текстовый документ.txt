@@ -1,0 +1,13 @@
+"name": "Geний",
+"birth": "30-11-1997",
+"films": 238,
+"liked": 21300,
+"photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_10015.jpg"
+
+"title": "Про любовь",
+"rating": "7",
+"year": 2015,
+"budget": 12345,
+"gross": 9876,
+"poster": "https://st.kp.yandex.net/images/film_iphone/iphone360_46019.jpg",
+"position": 123
