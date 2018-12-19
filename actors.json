@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Ридли Скотт",
+        "birth": "30-11-1937",
+        "films": 233,
+        "liked": 213000,
+        "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_10015.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Морган Фриман",
+        "birth": "01-06-1937",
+        "films": 308,
+        "liked": 52000,
+        "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6750.jpg"
+    },
+	{
+        "id": 3,
+        "name": "Колин Фёрт",
+        "birth": "10-09-1960",
+        "films": 170,
+        "liked": 78000,
+        "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_16464.jpg"
+    }
+]
